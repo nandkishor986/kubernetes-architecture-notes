@@ -58,7 +58,7 @@ Executes containers (containerd / CRI-O).
 
 ### Architecture Diagram: 
 
-![Architecture](./diagrams/architecture.png)
+![Architecture](./diagrams/Kubernetes-Architecture-Diagram.jpg)
 
 ### Pod Creation Flow: 
 
